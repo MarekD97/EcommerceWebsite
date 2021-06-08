@@ -59,7 +59,7 @@ parso==0.7.0
 pendulum==2.0.5
 pep8==1.7.1
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==8.2.0
 pluggy==0.13.1
 prompt-toolkit==3.0.5
 psycopg2==2.8.5
